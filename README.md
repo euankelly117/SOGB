@@ -4,3 +4,5 @@
  The project includes some dynamic development, including each of the informational pages being read from a mysql database
  
  Also included is a QR code scanner / generator, which I developed. The intention of the QR codes was to dynamically generate codes for each user, which could be printed into ID cards, or presented digitally at events, and scanning them would open an online profile for that user, as a form of ID checking for staff, volunteers, athletes etc.
+ 
+ The site is hosted online through the Abertay University student web server at https://mayar.abertay.ac.uk/~1505050/SOGB/View/index.php
